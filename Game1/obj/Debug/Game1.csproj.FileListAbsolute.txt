@@ -1,0 +1,33 @@
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\08\08mccormickale\My Documents\A Level\Computing\Game1\Game1\bin\Debug\Game1.exe.config
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\08\08mccormickale\My Documents\A Level\Computing\Game1\Game1\bin\Debug\Game1.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\08\08mccormickale\My Documents\A Level\Computing\Game1\Game1\bin\Debug\Game1.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\08\08mccormickale\My Documents\A Level\Computing\Game1\Game1\obj\Debug\Game1.csprojResolveAssemblyReference.cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\08\08mccormickale\My Documents\A Level\Computing\Game1\Game1\obj\Debug\MainWindow.baml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\08\08mccormickale\My Documents\A Level\Computing\Game1\Game1\obj\Debug\NumberLabel.baml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\08\08mccormickale\My Documents\A Level\Computing\Game1\Game1\obj\Debug\MainWindow.g.cs
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\08\08mccormickale\My Documents\A Level\Computing\Game1\Game1\obj\Debug\NumberLabel.g.cs
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\08\08mccormickale\My Documents\A Level\Computing\Game1\Game1\obj\Debug\App.g.cs
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\08\08mccormickale\My Documents\A Level\Computing\Game1\Game1\obj\Debug\Game1_MarkupCompile.cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\08\08mccormickale\My Documents\A Level\Computing\Game1\Game1\obj\Debug\Game1.g.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\08\08mccormickale\My Documents\A Level\Computing\Game1\Game1\obj\Debug\Game1.Properties.Resources.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\08\08mccormickale\My Documents\A Level\Computing\Game1\Game1\obj\Debug\Game1.csproj.GenerateResource.Cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\08\08mccormickale\My Documents\A Level\Computing\Game1\Game1\obj\Debug\Game1.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\08\08mccormickale\My Documents\A Level\Computing\Game1\Game1\obj\Debug\Game1.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\08\08mccormickale\My Documents\A Level\Computing\Game1\Game1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\08\08mccormickale\My Documents\A Level\Computing\Game1\Game1\obj\Debug\Game1_MarkupCompile.lref
+C:\Users\Alex\Desktop\Documents\OneDrive\Documents\A Level-Alex-PC\Computing\Game1\Game1\bin\Debug\Game1.exe.config
+C:\Users\Alex\Desktop\Documents\OneDrive\Documents\A Level-Alex-PC\Computing\Game1\Game1\obj\Debug\Game1.exe
+C:\Users\Alex\Desktop\Documents\OneDrive\Documents\A Level-Alex-PC\Computing\Game1\Game1\obj\Debug\Game1.pdb
+C:\Users\Alex\Desktop\Documents\OneDrive\Documents\A Level-Alex-PC\Computing\Game1\Game1\bin\Debug\Game1.exe
+C:\Users\Alex\Desktop\Documents\OneDrive\Documents\A Level-Alex-PC\Computing\Game1\Game1\bin\Debug\Game1.pdb
+C:\Users\Alex\Desktop\Documents\OneDrive\Documents\A Level-Alex-PC\Computing\Game1\Game1\obj\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Documents\OneDrive\Documents\A Level-Alex-PC\Computing\Game1\Game1\obj\Debug\NumberLabel.baml
+C:\Users\Alex\Desktop\Documents\OneDrive\Documents\A Level-Alex-PC\Computing\Game1\Game1\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\Documents\OneDrive\Documents\A Level-Alex-PC\Computing\Game1\Game1\obj\Debug\NumberLabel.g.cs
+C:\Users\Alex\Desktop\Documents\OneDrive\Documents\A Level-Alex-PC\Computing\Game1\Game1\obj\Debug\App.g.cs
+C:\Users\Alex\Desktop\Documents\OneDrive\Documents\A Level-Alex-PC\Computing\Game1\Game1\obj\Debug\Game1_MarkupCompile.cache
+C:\Users\Alex\Desktop\Documents\OneDrive\Documents\A Level-Alex-PC\Computing\Game1\Game1\obj\Debug\Game1_MarkupCompile.lref
+C:\Users\Alex\Desktop\Documents\OneDrive\Documents\A Level-Alex-PC\Computing\Game1\Game1\obj\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\Documents\OneDrive\Documents\A Level-Alex-PC\Computing\Game1\Game1\obj\Debug\Game1.g.resources
+C:\Users\Alex\Desktop\Documents\OneDrive\Documents\A Level-Alex-PC\Computing\Game1\Game1\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\Alex\Desktop\Documents\OneDrive\Documents\A Level-Alex-PC\Computing\Game1\Game1\obj\Debug\Game1.csproj.GenerateResource.Cache
