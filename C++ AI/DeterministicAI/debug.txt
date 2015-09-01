@@ -1,0 +1,4134 @@
+0	0	0	0	
+0	0	0	0	
+0	0	0	2	
+2	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 2, 
+0  -  First possible direction
+0	0	2	0	
+0	0	0	0	
+2	0	0	0	
+2	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 2, 2, 
+3  -  Moving in chain
+0	0	0	0	
+0	0	0	0	
+0	0	0	0	
+4	2	2	0	
+Possible directions are L:1, U:1 R:1, D:0
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:0
+Chain: 4, 2, 2, 
+0  -  Moving in chain
+0	0	0	0	
+0	0	0	0	
+0	0	0	0	
+4	4	0	2	
+Possible directions are L:1, U:1 R:1, D:0
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:0
+Chain: 4, 4, 
+0  -  Moving in chain
+0	0	0	0	
+2	0	0	0	
+0	0	0	0	
+8	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:0, U:1 R:0, D:1
+Chain: 8, 2, 
+3  -  Moving to preserve chain
+0	0	0	0	
+0	0	0	0	
+2	2	0	0	
+8	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 8, 2, 2, 
+0  -  Moving in chain
+0	0	0	0	
+0	0	0	0	
+4	0	0	0	
+8	2	0	4	
+Possible directions are L:1, U:1 R:1, D:0
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:0
+Chain: 8, 4, 
+0  -  Moving to preserve chain
+0	0	0	0	
+0	0	0	0	
+4	0	0	2	
+8	2	4	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 8, 4, 2, 
+0  -  First possible direction
+0	0	0	0	
+0	0	0	2	
+4	2	0	0	
+8	2	4	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 8, 4, 2, 
+0  -  Moving to preserve chain
+0	0	0	0	
+2	0	0	0	
+4	2	0	2	
+8	2	4	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 8, 4, 2, 2, 
+0  -  Moving in chain
+0	0	0	0	
+2	0	0	0	
+4	4	0	0	
+8	2	4	4	
+Possible directions are L:1, U:1 R:1, D:0
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:0
+Chain: 8, 4, 4, 
+0  -  Moving in chain
+0	0	0	0	
+2	0	0	0	
+8	2	0	0	
+8	2	8	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:0, U:1 R:0, D:1
+Chain: 8, 8, 
+3  -  Moving in chain
+0	0	0	0	
+0	0	0	0	
+2	0	0	0	
+16	4	8	2	
+Possible directions are L:0, U:1 R:1, D:0
+Corner is at (3, 0)
+Safe directions are L:0, U:1 R:1, D:0
+Chain: 16, 4, 
+2  -  Moving to preserve chain
+0	0	0	0	
+0	0	4	0	
+0	0	0	2	
+16	4	8	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 16, 4, 
+0  -  First possible direction
+0	2	0	0	
+4	0	0	0	
+2	0	0	0	
+16	4	8	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 16, 4, 2, 
+0  -  First possible direction
+2	0	0	2	
+4	0	0	0	
+2	0	0	0	
+16	4	8	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 16, 4, 
+0  -  First possible direction
+4	0	0	0	
+4	0	0	2	
+2	0	0	0	
+16	4	8	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 16, 4, 
+0  -  First possible direction
+4	2	0	0	
+4	2	0	0	
+2	0	0	0	
+16	4	8	2	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 16, 4, 2, 
+1  -  First possible direction
+8	4	8	2	
+2	4	0	0	
+16	0	2	0	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 8, 4, 4, 
+1  -  Moving in chain
+8	8	8	2	
+2	0	2	0	
+16	0	0	2	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 8, 8, 
+0  -  Moving in chain
+16	8	2	0	
+4	2	0	0	
+16	2	0	0	
+0	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 16, 8, 2, 
+1  -  Moving to preserve chain
+16	8	2	0	
+4	4	0	0	
+16	0	0	0	
+0	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 16, 8, 4, 
+1  -  Moving to preserve chain
+16	8	2	2	
+4	4	0	0	
+16	0	2	0	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 16, 8, 4, 
+1  -  Moving to preserve chain
+16	8	4	2	
+4	4	0	2	
+16	0	0	0	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 16, 8, 4, 
+1  -  Moving to preserve chain
+16	8	4	4	
+4	4	0	0	
+16	0	2	0	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 16, 8, 4, 
+1  -  Moving to preserve chain
+16	8	4	4	
+4	4	2	0	
+16	0	0	0	
+2	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 16, 8, 4, 
+0  -  First possible direction
+16	8	8	0	
+8	2	2	0	
+16	0	0	0	
+2	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 16, 8, 2, 2, 
+0  -  Moving in chain
+16	16	0	0	
+8	4	0	0	
+16	0	0	0	
+2	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 16, 16, 
+0  -  Moving in chain
+32	0	0	0	
+8	4	0	0	
+16	0	0	0	
+4	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 32, 8, 4, 
+0  -  Moving to preserve chain
+32	0	0	0	
+8	4	0	0	
+16	0	2	0	
+4	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 32, 8, 4, 
+0  -  Moving to preserve chain
+32	0	0	0	
+8	4	0	0	
+16	2	0	0	
+4	2	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 32, 8, 4, 
+0  -  Moving to preserve chain
+32	2	0	0	
+8	4	0	0	
+16	2	0	0	
+4	4	0	0	
+Possible directions are L:1, U:0 R:1, D:0
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:0
+Chain: 32, 8, 4, 2, 
+0  -  Moving to preserve chain
+32	2	0	2	
+8	4	0	0	
+16	2	0	0	
+8	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 32, 8, 4, 2, 
+0  -  Moving to preserve chain
+32	4	0	0	
+8	4	0	0	
+16	2	0	0	
+8	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 32, 8, 4, 
+0  -  Moving to preserve chain
+32	4	0	0	
+8	4	0	0	
+16	2	0	0	
+8	2	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 32, 8, 4, 
+0  -  Moving to preserve chain
+32	4	0	0	
+8	4	0	0	
+16	2	0	2	
+8	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 32, 8, 4, 4, 
+3  -  Moving in chain
+32	0	0	0	
+8	8	0	0	
+16	2	0	2	
+8	4	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 32, 8, 8, 
+0  -  Moving in chain
+32	0	0	0	
+16	0	0	0	
+16	4	2	0	
+8	4	2	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 32, 16, 16, 
+1  -  Moving in chain
+32	8	4	0	
+32	2	0	0	
+8	0	0	0	
+0	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 32, 32, 
+1  -  Moving in chain
+64	8	4	0	
+8	2	0	2	
+0	0	0	0	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 8, 4, 
+0  -  First possible direction
+64	8	4	0	
+8	4	0	0	
+0	0	2	0	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 8, 4, 
+0  -  First possible direction
+64	8	4	0	
+8	4	0	0	
+2	0	0	0	
+2	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 64, 8, 4, 
+1  -  Moving to preserve chain
+64	8	4	0	
+8	4	0	0	
+4	0	0	0	
+0	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 8, 4, 
+0  -  First possible direction
+64	8	4	0	
+8	4	0	0	
+4	0	0	0	
+2	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 8, 4, 
+0  -  First possible direction
+64	8	4	0	
+8	4	0	0	
+4	0	0	0	
+4	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 8, 4, 
+0  -  First possible direction
+64	8	4	0	
+8	4	0	0	
+4	0	2	0	
+4	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 8, 4, 2, 
+0  -  First possible direction
+64	8	4	0	
+8	4	0	2	
+4	2	0	0	
+4	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 8, 4, 2, 2, 
+1  -  Moving in chain
+64	8	4	2	
+8	4	0	0	
+8	4	0	0	
+0	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 64, 8, 4, 4, 
+1  -  Moving in chain
+64	8	4	2	
+16	8	2	0	
+4	0	0	0	
+0	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 64, 16, 8, 2, 
+1  -  First possible direction
+64	16	4	2	
+16	0	2	0	
+4	0	0	0	
+2	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 64, 16, 4, 2, 
+0  -  First possible direction
+64	16	4	2	
+16	2	0	0	
+4	0	0	0	
+2	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 16, 4, 2, 
+0  -  First possible direction
+64	16	4	2	
+16	2	0	2	
+4	0	0	0	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 16, 4, 2, 2, 
+1  -  Moving in chain
+64	16	4	4	
+16	2	2	0	
+8	0	0	0	
+0	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 64, 16, 4, 4, 
+0  -  Moving in chain
+64	16	8	0	
+16	4	0	0	
+8	0	0	0	
+4	0	0	0	
+Possible directions are L:0, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 64, 16, 8, 
+2  -  First possible direction
+0	64	16	8	
+2	0	16	4	
+0	0	0	8	
+0	0	0	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 3)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 8, 4, 
+0  -  First possible direction
+64	16	8	0	
+2	16	4	0	
+8	0	0	2	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 16, 16, 
+1  -  Moving in chain
+64	32	8	2	
+2	0	4	0	
+8	0	2	0	
+4	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 64, 32, 8, 4, 2, 
+0  -  First possible direction
+64	32	8	2	
+2	4	0	0	
+8	2	0	0	
+4	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 64, 32, 8, 2, 
+1  -  First possible direction
+64	32	8	2	
+2	4	0	2	
+8	4	0	0	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 32, 8, 2, 2, 
+1  -  Moving in chain
+64	32	8	4	
+2	8	2	0	
+8	0	0	0	
+4	0	0	0	
+Possible directions are L:0, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 64, 32, 8, 4, 
+2  -  Moving to preserve chain
+64	32	8	4	
+0	2	8	2	
+0	0	0	8	
+0	4	0	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 32, 8, 8, 
+1  -  Moving in chain
+64	32	16	4	
+0	2	2	2	
+0	4	0	8	
+0	0	0	4	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 64, 32, 16, 4, 2, 2, 
+2  -  Moving in chain
+64	32	16	4	
+0	0	2	4	
+0	0	4	8	
+0	0	2	4	
+Possible directions are L:1, U:1 R:0, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:0, D:1
+Chain: 64, 32, 16, 4, 4, 
+1  -  Moving in chain
+64	32	16	8	
+0	0	2	8	
+2	0	4	4	
+0	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 32, 16, 8, 8, 
+1  -  Moving in chain
+64	32	16	16	
+2	0	2	4	
+2	0	4	0	
+0	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 32, 16, 16, 
+0  -  Moving in chain
+64	32	32	0	
+4	4	0	0	
+2	4	0	4	
+2	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 32, 32, 
+0  -  Moving in chain
+64	64	0	0	
+8	2	0	0	
+2	8	0	0	
+2	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 64, 
+0  -  Moving in chain
+128	0	0	0	
+8	2	0	0	
+2	8	0	0	
+2	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 8, 2, 
+0  -  Moving to preserve chain
+128	0	2	0	
+8	2	0	0	
+2	8	0	0	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 8, 2, 
+0  -  Moving to preserve chain
+128	2	0	0	
+8	2	0	2	
+2	8	0	0	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 8, 2, 2, 
+0  -  Moving in chain
+128	2	0	2	
+8	4	0	0	
+2	8	0	0	
+4	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 128, 8, 4, 
+0  -  Moving to preserve chain
+128	4	0	0	
+8	4	0	0	
+2	8	0	2	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 8, 4, 
+0  -  Moving to preserve chain
+128	4	0	0	
+8	4	0	0	
+2	8	2	0	
+4	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 8, 4, 4, 
+3  -  Moving in chain
+128	0	2	0	
+8	8	0	0	
+2	8	0	0	
+4	2	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 8, 8, 
+0  -  Moving in chain
+128	2	0	0	
+16	0	0	0	
+2	8	2	0	
+4	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	2	0	0	
+16	0	0	0	
+2	8	2	0	
+8	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	2	2	0	
+16	0	0	0	
+2	8	2	0	
+8	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	4	0	0	
+16	0	0	0	
+2	8	2	0	
+8	2	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	4	0	0	
+16	0	0	0	
+2	8	2	2	
+8	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	4	0	0	
+16	0	0	0	
+2	8	4	0	
+8	4	0	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	4	0	0	
+16	0	0	2	
+2	8	4	0	
+8	8	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	4	0	0	
+16	2	0	0	
+2	8	4	0	
+16	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	4	0	0	
+16	2	0	0	
+2	8	4	2	
+16	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+1  -  First possible direction
+128	4	4	2	
+16	2	0	0	
+2	8	0	0	
+16	2	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	8	2	0	
+16	2	0	4	
+2	8	0	0	
+16	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	8	2	0	
+16	2	4	0	
+2	8	2	0	
+16	4	0	0	
+Possible directions are L:0, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 128, 16, 2, 
+3  -  Moving to preserve chain
+128	8	0	4	
+16	2	2	0	
+2	8	4	0	
+16	4	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 2, 
+0  -  Moving in chain
+128	8	4	0	
+16	4	2	0	
+2	8	4	0	
+16	4	2	0	
+Possible directions are L:0, U:0 R:1, D:0
+2  -  Only valid move
+0	128	8	4	
+2	16	4	2	
+0	2	8	4	
+0	16	4	2	
+Possible directions are L:1, U:1 R:0, D:1
+Corner is at (0, 3)
+Safe directions are L:1, U:1 R:0, D:1
+Chain: 4, 2, 
+0  -  First possible direction
+128	8	4	2	
+2	16	4	2	
+2	8	4	0	
+16	4	2	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 8, 4, 4, 
+1  -  Moving in chain
+128	8	8	4	
+4	16	4	0	
+16	8	2	0	
+0	4	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 8, 8, 
+0  -  Moving in chain
+128	16	4	0	
+4	16	4	0	
+16	8	2	0	
+4	2	0	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 16, 
+1  -  Moving in chain
+128	32	8	4	
+4	8	2	0	
+16	2	0	0	
+4	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 32, 8, 4, 
+1  -  First possible direction
+128	32	8	4	
+4	8	2	0	
+16	4	0	0	
+4	0	0	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 32, 8, 4, 4, 
+1  -  Moving in chain
+128	32	8	8	
+4	8	2	0	
+16	4	0	0	
+4	2	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 128, 32, 8, 8, 
+0  -  Moving in chain
+128	32	16	0	
+4	8	2	0	
+16	4	0	0	
+4	2	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 32, 16, 2, 
+0  -  First possible direction
+128	32	16	0	
+4	8	2	0	
+16	4	0	0	
+4	4	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 32, 16, 2, 2, 
+1  -  Moving in chain
+128	32	16	0	
+4	8	4	0	
+16	8	2	0	
+4	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 32, 16, 4, 2, 
+1  -  Moving to preserve chain
+128	32	16	0	
+4	16	4	0	
+16	0	2	0	
+4	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 32, 16, 4, 2, 
+1  -  Moving to preserve chain
+128	32	16	2	
+4	16	4	0	
+16	2	2	0	
+4	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 128, 32, 16, 4, 2, 
+0  -  First possible direction
+128	32	16	2	
+4	16	4	0	
+16	4	0	0	
+4	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 32, 16, 4, 
+0  -  First possible direction
+128	32	16	2	
+4	16	4	0	
+16	4	0	0	
+4	2	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 32, 16, 4, 
+0  -  First possible direction
+128	32	16	2	
+4	16	4	0	
+16	4	0	0	
+4	4	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 32, 16, 4, 2, 
+0  -  First possible direction
+128	32	16	2	
+4	16	4	0	
+16	4	2	0	
+8	2	0	0	
+Possible directions are L:0, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 128, 32, 16, 4, 2, 
+2  -  First possible direction
+128	32	16	2	
+2	4	16	4	
+0	16	4	2	
+0	0	8	2	
+Possible directions are L:1, U:1 R:0, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:0, D:1
+Chain: 128, 32, 16, 16, 
+1  -  Moving in chain
+128	32	32	2	
+2	4	4	4	
+2	16	8	4	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 32, 32, 
+0  -  Moving in chain
+128	64	2	0	
+2	8	4	0	
+2	16	8	4	
+2	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 64, 8, 4, 
+1  -  Moving to preserve chain
+128	64	2	4	
+4	8	4	0	
+2	16	8	2	
+0	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 128, 64, 8, 4, 
+1  -  First possible direction
+128	64	2	4	
+4	8	4	2	
+2	16	8	0	
+2	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 64, 8, 4, 2, 
+1  -  First possible direction
+128	64	2	4	
+4	8	4	2	
+4	16	8	2	
+0	0	0	0	
+Possible directions are L:0, U:1 R:0, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:0, D:1
+Chain: 128, 64, 8, 4, 2, 2, 
+1  -  Moving in chain
+128	64	2	4	
+8	8	4	4	
+0	16	8	0	
+0	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 8, 
+1  -  Moving to preserve chain
+128	64	2	8	
+8	8	4	0	
+0	16	8	4	
+0	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 8, 
+1  -  Moving to preserve chain
+128	64	2	8	
+8	8	4	4	
+2	16	8	0	
+0	2	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 128, 64, 8, 
+0  -  First possible direction
+128	64	2	8	
+16	8	0	0	
+2	16	8	0	
+2	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 8, 
+0  -  First possible direction
+128	64	2	8	
+16	8	0	0	
+2	16	8	0	
+4	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 64, 8, 
+1  -  First possible direction
+128	64	2	8	
+16	8	8	0	
+2	16	2	0	
+4	2	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 128, 64, 8, 8, 
+0  -  Moving in chain
+128	64	2	8	
+16	16	2	0	
+2	16	2	0	
+4	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 16, 16, 
+1  -  Moving in chain
+128	64	4	8	
+16	32	2	0	
+2	2	0	2	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 32, 2, 
+0  -  First possible direction
+128	64	4	8	
+16	32	2	0	
+4	2	2	0	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 32, 2, 2, 
+1  -  Moving in chain
+128	64	4	8	
+16	32	4	0	
+8	2	2	0	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 32, 4, 
+0  -  Moving to preserve chain
+128	64	4	8	
+16	32	4	0	
+8	4	0	0	
+0	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 32, 4, 
+0  -  Moving to preserve chain
+128	64	4	8	
+16	32	4	0	
+8	4	0	0	
+4	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 32, 4, 
+0  -  Moving to preserve chain
+128	64	4	8	
+16	32	4	2	
+8	4	0	0	
+4	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 64, 32, 16, 8, 4, 2, 
+1  -  First possible direction
+128	64	8	8	
+16	32	2	2	
+8	4	0	0	
+4	2	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 128, 64, 32, 4, 2, 
+0  -  First possible direction
+128	64	16	2	
+16	32	4	0	
+8	4	0	0	
+4	2	0	0	
+Possible directions are L:0, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 128, 64, 32, 4, 
+2  -  First possible direction
+128	64	16	2	
+0	16	32	4	
+0	0	8	4	
+2	0	4	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 16, 2, 
+0  -  First possible direction
+128	64	16	2	
+16	32	4	0	
+8	4	0	0	
+2	4	2	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 32, 4, 2, 
+0  -  First possible direction
+128	64	16	2	
+16	32	4	0	
+8	4	0	2	
+2	4	4	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 32, 4, 4, 
+1  -  Moving in chain
+128	64	16	4	
+16	32	8	0	
+8	8	0	0	
+2	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 32, 8, 
+0  -  First possible direction
+128	64	16	4	
+16	32	8	0	
+16	0	0	2	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 64, 32, 8, 
+1  -  Moving to preserve chain
+128	64	16	4	
+32	32	8	2	
+4	0	0	0	
+0	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 32, 32, 
+2  -  Moving in chain
+128	64	16	4	
+0	64	8	2	
+0	2	0	4	
+0	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 64, 
+1  -  Moving in chain
+128	128	16	4	
+0	2	8	2	
+0	2	0	4	
+0	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 128, 
+0  -  Moving in chain
+256	16	4	0	
+2	8	2	0	
+2	4	0	0	
+2	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 16, 8, 4, 
+0  -  First possible direction
+256	16	4	2	
+2	8	2	0	
+2	4	0	0	
+4	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 256, 16, 8, 4, 
+1  -  Moving to preserve chain
+256	16	4	2	
+4	8	2	0	
+4	4	0	0	
+0	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 16, 8, 4, 
+1  -  Moving to preserve chain
+256	16	4	4	
+8	8	2	0	
+0	4	0	0	
+2	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 16, 8, 4, 
+1  -  Moving to preserve chain
+256	16	4	4	
+8	8	2	2	
+2	4	0	0	
+0	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 256, 16, 8, 4, 
+0  -  First possible direction
+256	16	8	0	
+16	4	0	0	
+2	4	0	0	
+0	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 16, 8, 
+0  -  First possible direction
+256	16	8	0	
+16	4	0	0	
+2	4	0	0	
+2	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 16, 8, 2, 
+0  -  First possible direction
+256	16	8	0	
+16	4	0	0	
+2	4	0	0	
+4	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 16, 8, 2, 
+0  -  First possible direction
+256	16	8	0	
+16	4	0	0	
+2	4	0	0	
+4	2	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 16, 8, 2, 
+0  -  First possible direction
+256	16	8	0	
+16	4	0	0	
+2	4	2	0	
+4	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 16, 8, 2, 
+0  -  First possible direction
+256	16	8	0	
+16	4	0	0	
+2	4	2	0	
+8	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 256, 16, 8, 2, 
+1  -  Moving to preserve chain
+256	16	8	0	
+16	8	2	0	
+2	2	2	0	
+8	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 16, 8, 2, 2, 
+1  -  Moving in chain
+256	16	8	0	
+16	8	4	0	
+2	2	0	0	
+8	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 16, 8, 4, 2, 
+0  -  First possible direction
+256	16	8	0	
+16	8	4	0	
+4	0	0	0	
+8	2	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 16, 8, 4, 
+0  -  First possible direction
+256	16	8	0	
+16	8	4	2	
+4	0	0	0	
+8	4	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 256, 16, 8, 4, 
+1  -  Moving to preserve chain
+256	16	8	2	
+16	8	4	0	
+4	4	0	0	
+8	2	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 256, 16, 8, 4, 2, 
+3  -  Moving to preserve chain
+256	16	0	0	
+16	8	2	0	
+4	4	8	0	
+8	2	4	2	
+Possible directions are L:1, U:1 R:1, D:0
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:0
+Chain: 256, 16, 8, 4, 2, 
+1  -  Moving to preserve chain
+256	16	2	2	
+16	8	8	0	
+4	4	4	0	
+8	2	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 16, 8, 8, 
+0  -  Moving in chain
+256	16	4	2	
+16	16	0	0	
+8	4	0	0	
+8	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 16, 16, 
+1  -  Moving in chain
+256	32	4	2	
+16	8	0	2	
+16	0	0	0	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 2, 
+0  -  First possible direction
+256	32	4	2	
+16	8	2	0	
+16	0	0	0	
+2	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 256, 32, 8, 2, 
+1  -  Moving to preserve chain
+256	32	4	2	
+32	8	2	0	
+2	0	0	0	
+0	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 4, 
+0  -  First possible direction
+256	32	4	2	
+32	8	2	0	
+2	0	0	2	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 2, 
+0  -  First possible direction
+256	32	4	2	
+32	8	2	0	
+4	0	0	0	
+4	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 2, 
+0  -  First possible direction
+256	32	4	2	
+32	8	2	2	
+4	0	0	0	
+4	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 2, 2, 
+0  -  Moving in chain
+256	32	4	2	
+32	8	4	0	
+4	0	0	2	
+4	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 4, 
+0  -  Moving to preserve chain
+256	32	4	2	
+32	8	4	0	
+4	2	2	0	
+4	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 4, 
+0  -  Moving to preserve chain
+256	32	4	2	
+32	8	4	2	
+4	4	0	0	
+4	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 4, 2, 
+1  -  Moving to preserve chain
+256	32	8	4	
+32	8	0	0	
+8	4	2	0	
+0	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 4, 
+0  -  First possible direction
+256	32	8	4	
+32	8	0	0	
+8	4	2	0	
+2	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 4, 
+0  -  First possible direction
+256	32	8	4	
+32	8	0	0	
+8	4	2	0	
+4	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 4, 2, 
+0  -  First possible direction
+256	32	8	4	
+32	8	0	0	
+8	4	2	0	
+4	2	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 4, 2, 
+0  -  First possible direction
+256	32	8	4	
+32	8	0	0	
+8	4	2	0	
+4	4	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 4, 2, 
+0  -  First possible direction
+256	32	8	4	
+32	8	0	0	
+8	4	2	0	
+8	2	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 4, 2, 
+0  -  First possible direction
+256	32	8	4	
+32	8	0	0	
+8	4	2	2	
+8	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 4, 2, 
+0  -  First possible direction
+256	32	8	4	
+32	8	0	0	
+8	4	4	2	
+8	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 4, 
+0  -  First possible direction
+256	32	8	4	
+32	8	0	0	
+8	8	2	2	
+8	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 4, 2, 
+0  -  First possible direction
+256	32	8	4	
+32	8	0	0	
+16	4	0	2	
+8	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 4, 2, 
+0  -  First possible direction
+256	32	8	4	
+32	8	0	0	
+16	4	2	0	
+8	4	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 4, 2, 
+0  -  First possible direction
+256	32	8	4	
+32	8	0	0	
+16	4	2	2	
+8	4	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 4, 2, 
+0  -  First possible direction
+256	32	8	4	
+32	8	0	2	
+16	4	4	0	
+8	4	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 4, 
+0  -  First possible direction
+256	32	8	4	
+32	8	2	2	
+16	8	0	0	
+8	4	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 32, 8, 4, 2, 2, 
+2  -  Moving in chain
+256	32	8	4	
+0	32	8	4	
+0	2	16	8	
+0	8	4	2	
+Possible directions are L:1, U:1 R:0, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:0, D:1
+Chain: 256, 32, 32, 
+1  -  Moving in chain
+256	64	16	8	
+0	2	16	8	
+0	8	4	2	
+0	0	0	2	
+Possible directions are L:1, U:1 R:0, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:0, D:1
+Chain: 256, 64, 16, 16, 
+1  -  Moving in chain
+256	64	32	16	
+0	2	4	4	
+0	8	0	2	
+0	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 256, 64, 32, 16, 4, 4, 
+2  -  Moving in chain
+256	64	32	16	
+0	2	2	8	
+0	0	8	2	
+0	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 256, 64, 32, 16, 8, 2, 2, 
+2  -  Moving in chain
+256	64	32	16	
+0	0	4	8	
+0	0	8	2	
+2	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 64, 32, 16, 8, 4, 
+0  -  First possible direction
+256	64	32	16	
+4	8	0	0	
+8	2	0	0	
+2	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 64, 32, 16, 2, 
+0  -  First possible direction
+256	64	32	16	
+4	8	0	0	
+8	2	0	0	
+4	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 64, 32, 16, 
+0  -  First possible direction
+256	64	32	16	
+4	8	2	0	
+8	2	0	0	
+4	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 256, 64, 32, 16, 
+1  -  First possible direction
+256	64	32	16	
+4	8	2	0	
+8	4	0	0	
+4	2	0	0	
+Possible directions are L:0, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 256, 64, 32, 16, 
+2  -  Moving to preserve chain
+256	64	32	16	
+0	4	8	2	
+0	2	8	4	
+0	0	4	2	
+Possible directions are L:1, U:1 R:0, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:0, D:1
+Chain: 256, 64, 32, 16, 2, 
+1  -  Moving to preserve chain
+256	64	32	16	
+0	4	16	2	
+0	2	4	4	
+0	0	2	2	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 256, 64, 32, 16, 4, 2, 
+0  -  First possible direction
+256	64	32	16	
+4	16	2	0	
+2	8	0	2	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 64, 32, 16, 2, 
+0  -  First possible direction
+256	64	32	16	
+4	16	2	0	
+2	8	2	0	
+4	0	4	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 64, 32, 16, 
+0  -  First possible direction
+256	64	32	16	
+4	16	2	0	
+2	8	2	0	
+8	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 256, 64, 32, 16, 
+1  -  First possible direction
+256	64	32	16	
+4	16	4	2	
+2	8	0	0	
+8	2	0	0	
+Possible directions are L:0, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 256, 64, 32, 16, 2, 
+2  -  Moving to preserve chain
+256	64	32	16	
+4	16	4	2	
+2	0	2	8	
+0	0	8	2	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 256, 64, 32, 16, 2, 
+0  -  First possible direction
+256	64	32	16	
+4	16	4	2	
+4	8	0	0	
+8	2	0	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 64, 32, 16, 2, 
+0  -  First possible direction
+256	64	32	16	
+4	16	4	2	
+4	8	4	0	
+8	2	4	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 256, 64, 32, 16, 2, 
+1  -  First possible direction
+256	64	32	16	
+8	16	8	2	
+8	8	4	0	
+0	2	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 64, 32, 16, 2, 
+0  -  First possible direction
+256	64	32	16	
+8	16	8	2	
+16	4	0	0	
+4	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 64, 32, 16, 2, 2, 
+1  -  Moving in chain
+256	64	32	16	
+8	16	8	4	
+16	4	2	0	
+4	0	0	0	
+Possible directions are L:0, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 256, 64, 32, 16, 4, 
+2  -  Moving to preserve chain
+256	64	32	16	
+8	16	8	4	
+0	16	4	2	
+0	0	2	4	
+Possible directions are L:1, U:1 R:0, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:0, D:1
+Chain: 256, 64, 32, 16, 4, 2, 
+1  -  Moving to preserve chain
+256	64	32	16	
+8	32	8	4	
+0	0	4	2	
+0	2	2	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 64, 32, 8, 
+0  -  First possible direction
+256	64	32	16	
+8	32	8	4	
+4	2	2	0	
+4	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 64, 32, 8, 4, 4, 
+1  -  Moving in chain
+256	64	32	16	
+8	32	8	4	
+8	2	2	2	
+0	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 64, 32, 8, 8, 
+1  -  Moving in chain
+256	64	32	16	
+16	32	8	4	
+0	2	2	2	
+0	4	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 64, 32, 16, 
+0  -  First possible direction
+256	64	32	16	
+16	32	8	4	
+4	2	2	0	
+4	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 64, 32, 16, 4, 4, 
+1  -  Moving in chain
+256	64	32	16	
+16	32	8	4	
+8	4	2	2	
+0	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 256, 64, 32, 16, 8, 4, 2, 2, 
+0  -  Moving in chain
+256	64	32	16	
+16	32	8	4	
+8	4	4	0	
+0	2	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 256, 64, 32, 16, 8, 4, 4, 
+0  -  Moving in chain
+256	64	32	16	
+16	32	8	4	
+8	8	0	0	
+2	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 64, 32, 16, 8, 8, 
+0  -  Moving in chain
+256	64	32	16	
+16	32	8	4	
+16	0	0	0	
+4	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 64, 32, 16, 16, 
+1  -  Moving in chain
+256	64	32	16	
+32	32	8	4	
+4	2	2	0	
+0	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 256, 64, 32, 32, 
+2  -  Moving in chain
+256	64	32	16	
+0	64	8	4	
+0	0	4	4	
+2	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 64, 64, 
+1  -  Moving in chain
+256	128	32	16	
+2	0	8	8	
+0	2	4	0	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 32, 16, 8, 8, 
+2  -  Moving in chain
+256	128	32	16	
+0	0	2	16	
+0	4	2	4	
+0	0	0	0	
+Possible directions are L:1, U:1 R:0, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:0, D:1
+Chain: 256, 128, 32, 16, 16, 
+1  -  Moving in chain
+256	128	32	32	
+0	4	4	4	
+0	0	0	0	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 32, 32, 
+0  -  Moving in chain
+256	128	64	0	
+8	4	0	0	
+0	0	0	0	
+4	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 256, 128, 64, 
+1  -  Moving to preserve chain
+256	128	64	0	
+8	4	0	0	
+4	2	0	0	
+0	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 
+0  -  First possible direction
+256	128	64	0	
+8	4	0	0	
+4	2	2	0	
+2	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 2, 
+0  -  First possible direction
+256	128	64	0	
+8	4	0	0	
+4	4	0	0	
+2	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 2, 
+0  -  First possible direction
+256	128	64	0	
+8	4	0	0	
+8	0	0	0	
+4	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 256, 128, 64, 
+1  -  Moving to preserve chain
+256	128	64	2	
+16	4	0	0	
+4	0	0	0	
+0	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 2, 
+0  -  First possible direction
+256	128	64	2	
+16	4	0	0	
+4	0	0	0	
+2	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 2, 
+0  -  First possible direction
+256	128	64	2	
+16	4	0	0	
+4	0	0	0	
+4	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 2, 2, 
+1  -  Moving in chain
+256	128	64	4	
+16	4	0	0	
+8	0	0	0	
+0	0	0	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 4, 4, 
+1  -  Moving in chain
+256	128	64	8	
+16	4	0	0	
+8	0	0	2	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 2, 
+0  -  First possible direction
+256	128	64	8	
+16	4	0	0	
+8	2	0	0	
+0	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 2, 
+0  -  First possible direction
+256	128	64	8	
+16	4	0	0	
+8	2	0	2	
+2	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 2, 
+0  -  First possible direction
+256	128	64	8	
+16	4	2	0	
+8	4	0	0	
+2	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 
+1  -  First possible direction
+256	128	64	8	
+16	8	2	0	
+8	0	2	0	
+2	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 
+0  -  First possible direction
+256	128	64	8	
+16	8	2	0	
+8	2	0	0	
+2	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 2, 
+0  -  First possible direction
+256	128	64	8	
+16	8	2	0	
+8	2	0	0	
+4	0	4	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 
+0  -  First possible direction
+256	128	64	8	
+16	8	2	0	
+8	2	0	0	
+8	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 2, 
+0  -  First possible direction
+256	128	64	8	
+16	8	2	2	
+8	2	0	0	
+8	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 2, 2, 
+2  -  Moving in chain
+256	128	64	8	
+0	16	8	4	
+0	0	8	2	
+2	0	8	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 4, 2, 2, 
+1  -  Moving in chain
+256	128	64	8	
+2	16	16	4	
+0	0	8	4	
+0	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 16, 16, 
+2  -  Moving in chain
+256	128	64	8	
+0	2	32	4	
+0	0	8	4	
+2	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 32, 8, 
+0  -  First possible direction
+256	128	64	8	
+2	32	4	0	
+8	4	0	0	
+4	2	0	0	
+Possible directions are L:0, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 256, 128, 64, 8, 
+2  -  Moving to preserve chain
+256	128	64	8	
+0	2	32	4	
+2	0	8	4	
+0	0	4	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 32, 8, 4, 
+0  -  First possible direction
+256	128	64	8	
+2	32	4	0	
+2	8	4	2	
+4	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 2, 
+1  -  First possible direction
+256	128	64	8	
+4	32	8	2	
+4	8	0	0	
+0	2	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 2, 2, 
+1  -  Moving in chain
+256	128	64	8	
+8	32	8	4	
+0	8	0	0	
+0	2	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 4, 
+0  -  First possible direction
+256	128	64	8	
+8	32	8	4	
+8	0	0	0	
+4	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 4, 
+1  -  First possible direction
+256	128	64	8	
+16	32	8	4	
+4	2	2	0	
+0	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 256, 128, 64, 8, 4, 
+0  -  First possible direction
+256	128	64	8	
+16	32	8	4	
+4	4	0	0	
+0	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 4, 2, 
+0  -  First possible direction
+256	128	64	8	
+16	32	8	4	
+8	0	0	0	
+2	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 4, 
+0  -  First possible direction
+256	128	64	8	
+16	32	8	4	
+8	0	2	0	
+4	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 256, 128, 64, 8, 4, 
+0  -  First possible direction
+256	128	64	8	
+16	32	8	4	
+8	2	0	0	
+4	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 4, 
+1  -  First possible direction
+256	128	64	8	
+16	32	8	4	
+8	4	0	0	
+4	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 4, 
+0  -  First possible direction
+256	128	64	8	
+16	32	8	4	
+8	4	0	0	
+4	2	4	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 4, 
+1  -  First possible direction
+256	128	64	8	
+16	32	8	4	
+8	4	4	4	
+4	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 4, 4, 
+1  -  Moving in chain
+256	128	64	8	
+16	32	8	8	
+8	4	4	0	
+4	2	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 8, 8, 
+1  -  Moving in chain
+256	128	64	16	
+16	32	8	2	
+8	4	4	2	
+4	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 16, 2, 2, 
+1  -  Moving in chain
+256	128	64	16	
+16	32	8	4	
+8	4	4	0	
+4	2	2	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 256, 128, 64, 16, 4, 
+0  -  First possible direction
+256	128	64	16	
+16	32	8	4	
+8	8	0	0	
+4	4	0	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 16, 4, 4, 
+1  -  Moving in chain
+256	128	64	16	
+16	32	8	8	
+8	8	0	0	
+4	4	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 16, 8, 8, 
+2  -  Moving in chain
+256	128	64	16	
+0	16	32	16	
+4	0	0	16	
+0	0	8	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 32, 16, 
+0  -  First possible direction
+256	128	64	16	
+16	32	16	4	
+4	16	0	0	
+8	2	0	0	
+Possible directions are L:0, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 256, 128, 64, 16, 4, 
+2  -  Moving to preserve chain
+256	128	64	16	
+16	32	16	4	
+0	0	4	16	
+2	0	8	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 16, 4, 
+0  -  First possible direction
+256	128	64	16	
+16	32	16	4	
+4	16	0	2	
+2	8	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 16, 4, 2, 
+0  -  First possible direction
+256	128	64	16	
+16	32	16	4	
+4	16	2	0	
+2	8	2	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 16, 4, 2, 
+0  -  First possible direction
+256	128	64	16	
+16	32	16	4	
+4	16	2	0	
+2	8	4	2	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 256, 128, 64, 16, 4, 2, 
+2  -  Moving to preserve chain
+256	128	64	16	
+16	32	16	4	
+2	4	16	2	
+2	8	4	2	
+Possible directions are L:0, U:1 R:0, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:0, D:1
+Chain: 256, 128, 64, 16, 4, 2, 2, 
+1  -  Moving in chain
+256	128	64	16	
+16	32	32	4	
+4	4	4	4	
+0	8	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 32, 32, 
+2  -  Moving in chain
+256	128	64	16	
+0	16	64	4	
+0	0	8	8	
+4	0	8	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 64, 64, 
+1  -  Moving in chain
+256	128	128	16	
+4	16	16	4	
+0	0	0	8	
+2	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 128, 128, 
+0  -  Moving in chain
+256	256	16	0	
+4	32	4	0	
+8	0	0	0	
+4	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 256, 256, 
+0  -  Moving in chain
+512	16	2	0	
+4	32	4	0	
+8	0	0	0	
+4	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 512, 16, 2, 
+1  -  Moving to preserve chain
+512	16	2	0	
+4	32	4	0	
+8	2	0	0	
+4	0	0	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 16, 2, 
+0  -  First possible direction
+512	16	2	0	
+4	32	4	2	
+8	2	0	0	
+8	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 512, 16, 2, 
+1  -  Moving to preserve chain
+512	16	2	2	
+4	32	4	0	
+16	2	0	0	
+0	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 16, 2, 2, 
+0  -  Moving in chain
+512	16	4	0	
+4	32	4	0	
+16	2	2	0	
+2	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 16, 4, 4, 
+1  -  Moving in chain
+512	16	8	0	
+4	32	2	2	
+16	2	0	0	
+2	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 16, 8, 2, 2, 
+0  -  Moving in chain
+512	16	8	0	
+4	32	4	0	
+16	2	0	2	
+2	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 16, 8, 4, 
+0  -  First possible direction
+512	16	8	0	
+4	32	4	0	
+16	4	0	0	
+2	2	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 512, 16, 8, 4, 
+0  -  Moving to preserve chain
+512	16	8	0	
+4	32	4	0	
+16	4	0	0	
+4	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 16, 8, 4, 2, 
+0  -  First possible direction
+512	16	8	4	
+4	32	4	0	
+16	4	0	0	
+4	2	0	0	
+Possible directions are L:0, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 512, 16, 8, 4, 
+2  -  First possible direction
+512	16	8	4	
+0	4	32	4	
+0	2	16	4	
+0	0	4	2	
+Possible directions are L:1, U:1 R:0, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:0, D:1
+Chain: 512, 16, 8, 4, 4, 
+1  -  Moving in chain
+512	16	8	8	
+2	4	32	4	
+0	2	16	2	
+0	0	4	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 512, 16, 8, 8, 
+0  -  Moving in chain
+512	16	16	0	
+2	4	32	4	
+2	16	2	0	
+4	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 16, 16, 
+0  -  Moving in chain
+512	32	0	0	
+2	4	32	4	
+2	16	2	0	
+4	2	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 32, 4, 
+0  -  First possible direction
+512	32	2	0	
+2	4	32	4	
+2	16	2	0	
+4	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 32, 4, 
+0  -  First possible direction
+512	32	2	0	
+2	4	32	4	
+2	16	2	0	
+8	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 512, 32, 4, 
+1  -  Moving to preserve chain
+512	32	2	4	
+4	4	32	0	
+8	16	2	0	
+0	2	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 32, 4, 
+1  -  Moving to preserve chain
+512	32	2	4	
+4	4	32	0	
+8	16	4	0	
+0	2	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 32, 4, 
+1  -  Moving to preserve chain
+512	32	2	4	
+4	4	32	2	
+8	16	4	2	
+0	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 32, 4, 4, 
+2  -  Moving in chain
+512	32	2	4	
+2	8	32	2	
+8	16	4	2	
+0	0	0	2	
+Possible directions are L:1, U:1 R:0, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:0, D:1
+Chain: 512, 32, 8, 2, 
+0  -  First possible direction
+512	32	2	4	
+2	8	32	2	
+8	16	4	2	
+2	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 32, 8, 2, 
+0  -  First possible direction
+512	32	2	4	
+2	8	32	2	
+8	16	4	2	
+4	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 32, 8, 2, 
+0  -  First possible direction
+512	32	2	4	
+2	8	32	2	
+8	16	4	2	
+8	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 32, 8, 2, 
+0  -  First possible direction
+512	32	2	4	
+2	8	32	2	
+8	16	4	2	
+8	2	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 32, 8, 2, 
+0  -  First possible direction
+512	32	2	4	
+2	8	32	2	
+8	16	4	2	
+8	4	2	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 512, 32, 8, 2, 
+1  -  First possible direction
+512	32	2	4	
+2	8	32	4	
+16	16	4	0	
+2	4	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 32, 8, 2, 
+0  -  First possible direction
+512	32	2	4	
+2	8	32	4	
+32	4	0	2	
+2	4	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 32, 8, 4, 4, 
+1  -  Moving in chain
+512	32	2	8	
+2	8	32	2	
+32	8	2	0	
+2	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 32, 8, 8, 
+1  -  Moving in chain
+512	32	2	8	
+2	16	32	4	
+32	0	2	0	
+2	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 32, 16, 2, 
+0  -  First possible direction
+512	32	2	8	
+2	16	32	4	
+32	2	2	0	
+4	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 512, 32, 16, 2, 
+0  -  First possible direction
+512	32	2	8	
+2	16	32	4	
+32	4	2	0	
+4	0	0	0	
+Possible directions are L:0, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 512, 32, 16, 4, 2, 
+2  -  First possible direction
+512	32	2	8	
+2	16	32	4	
+2	32	4	2	
+0	0	0	4	
+Possible directions are L:1, U:1 R:0, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:0, D:1
+Chain: 512, 32, 16, 2, 2, 
+1  -  Moving in chain
+512	32	2	8	
+4	16	32	4	
+0	32	4	2	
+2	0	0	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 32, 16, 4, 2, 
+0  -  First possible direction
+512	32	2	8	
+4	16	32	4	
+32	4	2	0	
+2	4	2	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 512, 32, 16, 4, 
+1  -  First possible direction
+512	32	2	8	
+4	16	32	4	
+32	8	4	0	
+2	2	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 512, 32, 16, 8, 4, 
+0  -  Moving to preserve chain
+512	32	2	8	
+4	16	32	4	
+32	8	4	0	
+4	4	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 512, 32, 16, 8, 4, 
+3  -  Moving to preserve chain
+512	32	0	2	
+4	16	2	0	
+32	8	32	8	
+4	4	4	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 32, 16, 8, 4, 
+0  -  First possible direction
+512	32	2	2	
+4	16	2	0	
+32	8	32	8	
+8	8	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 32, 16, 8, 8, 
+1  -  Moving in chain
+512	32	4	2	
+4	16	32	8	
+32	16	2	0	
+8	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 512, 32, 16, 16, 
+1  -  Moving in chain
+512	32	4	2	
+4	32	32	8	
+32	0	2	2	
+8	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 32, 32, 
+1  -  Moving in chain
+512	64	4	2	
+4	0	32	8	
+32	0	2	2	
+8	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 64, 4, 2, 
+0  -  First possible direction
+512	64	4	2	
+4	32	8	0	
+32	4	0	0	
+8	2	0	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 64, 32, 8, 
+0  -  First possible direction
+512	64	4	2	
+4	32	8	0	
+32	4	0	2	
+8	2	4	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 64, 32, 8, 4, 
+0  -  First possible direction
+512	64	4	2	
+4	32	8	0	
+32	4	2	2	
+8	2	4	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 64, 32, 8, 4, 2, 2, 
+1  -  Moving in chain
+512	64	4	4	
+4	32	8	2	
+32	4	2	0	
+8	2	4	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 512, 64, 32, 8, 4, 4, 
+0  -  Moving in chain
+512	64	8	0	
+4	32	8	2	
+32	4	2	2	
+8	2	4	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 64, 32, 8, 8, 
+3  -  Moving in chain
+512	64	0	0	
+4	32	16	2	
+32	4	2	0	
+8	2	4	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 64, 32, 16, 2, 
+0  -  Moving to preserve chain
+512	64	0	0	
+4	32	16	2	
+32	4	2	2	
+8	2	8	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 64, 32, 16, 2, 
+0  -  Moving to preserve chain
+512	64	2	0	
+4	32	16	2	
+32	4	4	0	
+8	2	8	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 64, 32, 16, 4, 
+0  -  First possible direction
+512	64	2	0	
+4	32	16	2	
+32	8	0	2	
+8	2	8	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 64, 32, 16, 8, 
+0  -  First possible direction
+512	64	2	2	
+4	32	16	2	
+32	8	2	0	
+8	2	8	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 64, 32, 16, 2, 2, 
+0  -  Moving in chain
+512	64	4	2	
+4	32	16	2	
+32	8	2	0	
+8	2	8	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 512, 64, 32, 16, 4, 2, 2, 
+1  -  Moving in chain
+512	64	4	4	
+4	32	16	0	
+32	8	2	0	
+8	2	8	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 64, 32, 16, 4, 4, 
+0  -  Moving in chain
+512	64	8	0	
+4	32	16	0	
+32	8	2	2	
+8	2	8	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 64, 32, 16, 8, 
+0  -  First possible direction
+512	64	8	0	
+4	32	16	0	
+32	8	4	2	
+8	2	8	2	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 512, 64, 32, 16, 8, 
+1  -  First possible direction
+512	64	8	4	
+4	32	16	0	
+32	8	4	2	
+8	2	8	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 512, 64, 32, 16, 8, 4, 2, 
+1  -  Moving to preserve chain
+512	64	8	4	
+4	32	16	2	
+32	8	4	0	
+8	2	8	2	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 512, 64, 32, 16, 8, 4, 2, 2, 
+1  -  Moving in chain
+512	64	8	4	
+4	32	16	4	
+32	8	4	2	
+8	2	8	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 512, 64, 32, 16, 8, 4, 4, 
+1  -  Moving in chain
+512	64	8	8	
+4	32	16	2	
+32	8	4	0	
+8	2	8	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 64, 32, 16, 8, 8, 
+0  -  Moving in chain
+512	64	16	0	
+4	32	16	2	
+32	8	4	2	
+8	2	8	2	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 512, 64, 32, 16, 16, 
+3  -  Moving in chain
+512	64	0	0	
+4	32	32	2	
+32	8	4	2	
+8	2	8	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 64, 32, 32, 
+0  -  Moving in chain
+512	64	0	4	
+4	64	2	0	
+32	8	4	2	
+8	2	8	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 512, 64, 64, 
+1  -  Moving in chain
+512	128	2	4	
+4	8	4	2	
+32	2	8	4	
+8	0	4	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 512, 128, 8, 4, 2, 
+0  -  First possible direction
+512	128	2	4	
+4	8	4	2	
+32	2	8	4	
+8	4	0	2	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 512, 128, 8, 4, 2, 
+2  -  Moving to preserve chain
+512	128	2	4	
+4	8	4	2	
+32	2	8	4	
+2	8	4	2	
+Possible directions are L:0, U:0 R:0, D:0
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:0, D:0
+Chain: 512, 128, 8, 4, 2, 
+0  -  First possible direction
+0	0	0	0	
+0	0	0	0	
+0	0	0	2	
+2	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 2, 
+0  -  First possible direction
+0	0	2	0	
+0	0	0	0	
+2	0	0	0	
+2	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 2, 2, 
+3  -  Moving in chain
+0	0	0	0	
+0	0	0	0	
+0	0	0	0	
+4	2	2	0	
+Possible directions are L:1, U:1 R:1, D:0
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:0
+Chain: 4, 2, 2, 
+0  -  Moving in chain
+0	0	0	0	
+0	0	0	0	
+0	0	0	0	
+4	4	0	2	
+Possible directions are L:1, U:1 R:1, D:0
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:0
+Chain: 4, 4, 
+0  -  Moving in chain
+0	0	0	0	
+2	0	0	0	
+0	0	0	0	
+8	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:0, U:1 R:0, D:1
+Chain: 8, 2, 
+3  -  Moving to preserve chain
+0	0	0	0	
+0	0	0	0	
+2	2	0	0	
+8	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 8, 2, 2, 
+0  -  Moving in chain
+0	0	0	0	
+0	0	0	0	
+4	0	0	0	
+8	2	0	4	
+Possible directions are L:1, U:1 R:1, D:0
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:0
+Chain: 8, 4, 
+0  -  Moving to preserve chain
+0	0	0	0	
+0	0	0	0	
+4	0	0	2	
+8	2	4	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 8, 4, 2, 
+0  -  First possible direction
+0	0	0	0	
+0	0	0	2	
+4	2	0	0	
+8	2	4	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 8, 4, 2, 
+0  -  Moving to preserve chain
+0	0	0	0	
+2	0	0	0	
+4	2	0	2	
+8	2	4	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 8, 4, 2, 2, 
+0  -  Moving in chain
+0	0	0	0	
+2	0	0	0	
+4	4	0	0	
+8	2	4	4	
+Possible directions are L:1, U:1 R:1, D:0
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:0
+Chain: 8, 4, 4, 
+0  -  Moving in chain
+0	0	0	0	
+2	0	0	0	
+8	2	0	0	
+8	2	8	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:0, U:1 R:0, D:1
+Chain: 8, 8, 
+3  -  Moving in chain
+0	0	0	0	
+0	0	0	0	
+2	0	0	0	
+16	4	8	2	
+Possible directions are L:0, U:1 R:1, D:0
+Corner is at (3, 0)
+Safe directions are L:0, U:1 R:1, D:0
+Chain: 16, 4, 
+2  -  Moving to preserve chain
+0	0	0	0	
+0	0	4	0	
+0	0	0	2	
+16	4	8	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 16, 4, 
+0  -  First possible direction
+0	2	0	0	
+4	0	0	0	
+2	0	0	0	
+16	4	8	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 16, 4, 2, 
+0  -  First possible direction
+2	0	0	2	
+4	0	0	0	
+2	0	0	0	
+16	4	8	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 16, 4, 
+0  -  First possible direction
+4	0	0	0	
+4	0	0	2	
+2	0	0	0	
+16	4	8	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 16, 4, 
+0  -  First possible direction
+4	2	0	0	
+4	2	0	0	
+2	0	0	0	
+16	4	8	2	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (3, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 16, 4, 2, 
+1  -  First possible direction
+8	4	8	2	
+2	4	0	0	
+16	0	2	0	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 8, 4, 4, 
+1  -  Moving in chain
+8	8	8	2	
+2	0	2	0	
+16	0	0	2	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 8, 8, 
+0  -  Moving in chain
+16	8	2	0	
+4	2	0	0	
+16	2	0	0	
+0	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 16, 8, 2, 
+1  -  Moving to preserve chain
+16	8	2	0	
+4	4	0	0	
+16	0	0	0	
+0	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 16, 8, 4, 
+1  -  Moving to preserve chain
+16	8	2	2	
+4	4	0	0	
+16	0	2	0	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 16, 8, 4, 
+1  -  Moving to preserve chain
+16	8	4	2	
+4	4	0	2	
+16	0	0	0	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 16, 8, 4, 
+1  -  Moving to preserve chain
+16	8	4	4	
+4	4	0	0	
+16	0	2	0	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 16, 8, 4, 
+1  -  Moving to preserve chain
+16	8	4	4	
+4	4	2	0	
+16	0	0	0	
+2	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 16, 8, 4, 
+0  -  First possible direction
+16	8	8	0	
+8	2	2	0	
+16	0	0	0	
+2	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 16, 8, 2, 2, 
+0  -  Moving in chain
+16	16	0	0	
+8	4	0	0	
+16	0	0	0	
+2	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 16, 16, 
+0  -  Moving in chain
+32	0	0	0	
+8	4	0	0	
+16	0	0	0	
+4	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 32, 8, 4, 
+0  -  Moving to preserve chain
+32	0	0	0	
+8	4	0	0	
+16	0	2	0	
+4	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 32, 8, 4, 
+0  -  Moving to preserve chain
+32	0	0	0	
+8	4	0	0	
+16	2	0	0	
+4	2	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 32, 8, 4, 
+0  -  Moving to preserve chain
+32	2	0	0	
+8	4	0	0	
+16	2	0	0	
+4	4	0	0	
+Possible directions are L:1, U:0 R:1, D:0
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:0
+Chain: 32, 8, 4, 2, 
+0  -  Moving to preserve chain
+32	2	0	2	
+8	4	0	0	
+16	2	0	0	
+8	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 32, 8, 4, 2, 
+0  -  Moving to preserve chain
+32	4	0	0	
+8	4	0	0	
+16	2	0	0	
+8	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 32, 8, 4, 
+0  -  Moving to preserve chain
+32	4	0	0	
+8	4	0	0	
+16	2	0	0	
+8	2	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 32, 8, 4, 
+0  -  Moving to preserve chain
+32	4	0	0	
+8	4	0	0	
+16	2	0	2	
+8	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 32, 8, 4, 4, 
+3  -  Moving in chain
+32	0	0	0	
+8	8	0	0	
+16	2	0	2	
+8	4	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 32, 8, 8, 
+0  -  Moving in chain
+32	0	0	0	
+16	0	0	0	
+16	4	2	0	
+8	4	2	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 32, 16, 16, 
+1  -  Moving in chain
+32	8	4	0	
+32	2	0	0	
+8	0	0	0	
+0	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 32, 32, 
+1  -  Moving in chain
+64	8	4	0	
+8	2	0	2	
+0	0	0	0	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 8, 4, 
+0  -  First possible direction
+64	8	4	0	
+8	4	0	0	
+0	0	2	0	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 8, 4, 
+0  -  First possible direction
+64	8	4	0	
+8	4	0	0	
+2	0	0	0	
+2	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 64, 8, 4, 
+1  -  Moving to preserve chain
+64	8	4	0	
+8	4	0	0	
+4	0	0	0	
+0	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 8, 4, 
+0  -  First possible direction
+64	8	4	0	
+8	4	0	0	
+4	0	0	0	
+2	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 8, 4, 
+0  -  First possible direction
+64	8	4	0	
+8	4	0	0	
+4	0	0	0	
+4	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 8, 4, 
+0  -  First possible direction
+64	8	4	0	
+8	4	0	0	
+4	0	2	0	
+4	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 8, 4, 2, 
+0  -  First possible direction
+64	8	4	0	
+8	4	0	2	
+4	2	0	0	
+4	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 8, 4, 2, 2, 
+1  -  Moving in chain
+64	8	4	2	
+8	4	0	0	
+8	4	0	0	
+0	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 64, 8, 4, 4, 
+1  -  Moving in chain
+64	8	4	2	
+16	8	2	0	
+4	0	0	0	
+0	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 64, 16, 8, 2, 
+1  -  First possible direction
+64	16	4	2	
+16	0	2	0	
+4	0	0	0	
+2	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 64, 16, 4, 2, 
+0  -  First possible direction
+64	16	4	2	
+16	2	0	0	
+4	0	0	0	
+2	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 16, 4, 2, 
+0  -  First possible direction
+64	16	4	2	
+16	2	0	2	
+4	0	0	0	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 16, 4, 2, 2, 
+1  -  Moving in chain
+64	16	4	4	
+16	2	2	0	
+8	0	0	0	
+0	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 64, 16, 4, 4, 
+0  -  Moving in chain
+64	16	8	0	
+16	4	0	0	
+8	0	0	0	
+4	0	0	0	
+Possible directions are L:0, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 64, 16, 8, 
+2  -  First possible direction
+0	64	16	8	
+2	0	16	4	
+0	0	0	8	
+0	0	0	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 3)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 8, 4, 
+0  -  First possible direction
+64	16	8	0	
+2	16	4	0	
+8	0	0	2	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 16, 16, 
+1  -  Moving in chain
+64	32	8	2	
+2	0	4	0	
+8	0	2	0	
+4	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 64, 32, 8, 4, 2, 
+0  -  First possible direction
+64	32	8	2	
+2	4	0	0	
+8	2	0	0	
+4	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 64, 32, 8, 2, 
+1  -  First possible direction
+64	32	8	2	
+2	4	0	2	
+8	4	0	0	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 32, 8, 2, 2, 
+1  -  Moving in chain
+64	32	8	4	
+2	8	2	0	
+8	0	0	0	
+4	0	0	0	
+Possible directions are L:0, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 64, 32, 8, 4, 
+2  -  Moving to preserve chain
+64	32	8	4	
+0	2	8	2	
+0	0	0	8	
+0	4	0	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 32, 8, 8, 
+1  -  Moving in chain
+64	32	16	4	
+0	2	2	2	
+0	4	0	8	
+0	0	0	4	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 64, 32, 16, 4, 2, 2, 
+2  -  Moving in chain
+64	32	16	4	
+0	0	2	4	
+0	0	4	8	
+0	0	2	4	
+Possible directions are L:1, U:1 R:0, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:0, D:1
+Chain: 64, 32, 16, 4, 4, 
+1  -  Moving in chain
+64	32	16	8	
+0	0	2	8	
+2	0	4	4	
+0	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 32, 16, 8, 8, 
+1  -  Moving in chain
+64	32	16	16	
+2	0	2	4	
+2	0	4	0	
+0	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 32, 16, 16, 
+0  -  Moving in chain
+64	32	32	0	
+4	4	0	0	
+2	4	0	4	
+2	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 32, 32, 
+0  -  Moving in chain
+64	64	0	0	
+8	2	0	0	
+2	8	0	0	
+2	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 64, 64, 
+0  -  Moving in chain
+128	0	0	0	
+8	2	0	0	
+2	8	0	0	
+2	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 8, 2, 
+0  -  Moving to preserve chain
+128	0	2	0	
+8	2	0	0	
+2	8	0	0	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 8, 2, 
+0  -  Moving to preserve chain
+128	2	0	0	
+8	2	0	2	
+2	8	0	0	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 8, 2, 2, 
+0  -  Moving in chain
+128	2	0	2	
+8	4	0	0	
+2	8	0	0	
+4	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 128, 8, 4, 
+0  -  Moving to preserve chain
+128	4	0	0	
+8	4	0	0	
+2	8	0	2	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 8, 4, 
+0  -  Moving to preserve chain
+128	4	0	0	
+8	4	0	0	
+2	8	2	0	
+4	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 8, 4, 4, 
+3  -  Moving in chain
+128	0	2	0	
+8	8	0	0	
+2	8	0	0	
+4	2	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 8, 8, 
+0  -  Moving in chain
+128	2	0	0	
+16	0	0	0	
+2	8	2	0	
+4	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	2	0	0	
+16	0	0	0	
+2	8	2	0	
+8	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	2	2	0	
+16	0	0	0	
+2	8	2	0	
+8	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	4	0	0	
+16	0	0	0	
+2	8	2	0	
+8	2	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	4	0	0	
+16	0	0	0	
+2	8	2	2	
+8	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	4	0	0	
+16	0	0	0	
+2	8	4	0	
+8	4	0	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	4	0	0	
+16	0	0	2	
+2	8	4	0	
+8	8	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	4	0	0	
+16	2	0	0	
+2	8	4	0	
+16	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	4	0	0	
+16	2	0	0	
+2	8	4	2	
+16	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+1  -  First possible direction
+128	4	4	2	
+16	2	0	0	
+2	8	0	0	
+16	2	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	8	2	0	
+16	2	0	4	
+2	8	0	0	
+16	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 
+0  -  First possible direction
+128	8	2	0	
+16	2	4	0	
+2	8	2	0	
+16	4	0	0	
+Possible directions are L:0, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 128, 16, 2, 
+3  -  Moving to preserve chain
+128	8	0	4	
+16	2	2	0	
+2	8	4	0	
+16	4	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 2, 2, 
+0  -  Moving in chain
+128	8	4	0	
+16	4	2	0	
+2	8	4	0	
+16	4	2	0	
+Possible directions are L:0, U:0 R:1, D:0
+2  -  Only valid move
+0	128	8	4	
+2	16	4	2	
+0	2	8	4	
+0	16	4	2	
+Possible directions are L:1, U:1 R:0, D:1
+Corner is at (0, 3)
+Safe directions are L:1, U:1 R:0, D:1
+Chain: 4, 2, 
+0  -  First possible direction
+128	8	4	2	
+2	16	4	2	
+2	8	4	0	
+16	4	2	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 8, 4, 4, 
+1  -  Moving in chain
+128	8	8	4	
+4	16	4	0	
+16	8	2	0	
+0	4	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 8, 8, 
+0  -  Moving in chain
+128	16	4	0	
+4	16	4	0	
+16	8	2	0	
+4	2	0	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 16, 16, 
+1  -  Moving in chain
+128	32	8	4	
+4	8	2	0	
+16	2	0	0	
+4	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 32, 8, 4, 
+1  -  First possible direction
+128	32	8	4	
+4	8	2	0	
+16	4	0	0	
+4	0	0	4	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 32, 8, 4, 4, 
+1  -  Moving in chain
+128	32	8	8	
+4	8	2	0	
+16	4	0	0	
+4	2	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 128, 32, 8, 8, 
+0  -  Moving in chain
+128	32	16	0	
+4	8	2	0	
+16	4	0	0	
+4	2	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 32, 16, 2, 
+0  -  First possible direction
+128	32	16	0	
+4	8	2	0	
+16	4	0	0	
+4	4	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 32, 16, 2, 2, 
+1  -  Moving in chain
+128	32	16	0	
+4	8	4	0	
+16	8	2	0	
+4	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 32, 16, 4, 2, 
+1  -  Moving to preserve chain
+128	32	16	0	
+4	16	4	0	
+16	0	2	0	
+4	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 32, 16, 4, 2, 
+1  -  Moving to preserve chain
+128	32	16	2	
+4	16	4	0	
+16	2	2	0	
+4	0	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 128, 32, 16, 4, 2, 
+0  -  First possible direction
+128	32	16	2	
+4	16	4	0	
+16	4	0	0	
+4	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 32, 16, 4, 
+0  -  First possible direction
+128	32	16	2	
+4	16	4	0	
+16	4	0	0	
+4	2	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 32, 16, 4, 
+0  -  First possible direction
+128	32	16	2	
+4	16	4	0	
+16	4	0	0	
+4	4	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 32, 16, 4, 2, 
+0  -  First possible direction
+128	32	16	2	
+4	16	4	0	
+16	4	2	0	
+8	2	0	0	
+Possible directions are L:0, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 128, 32, 16, 4, 2, 
+2  -  First possible direction
+128	32	16	2	
+2	4	16	4	
+0	16	4	2	
+0	0	8	2	
+Possible directions are L:1, U:1 R:0, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:0, D:1
+Chain: 128, 32, 16, 16, 
+1  -  Moving in chain
+128	32	32	2	
+2	4	4	4	
+2	16	8	4	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 32, 32, 
+0  -  Moving in chain
+128	64	2	0	
+2	8	4	0	
+2	16	8	4	
+2	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 64, 8, 4, 
+1  -  Moving to preserve chain
+128	64	2	4	
+4	8	4	0	
+2	16	8	2	
+0	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 128, 64, 8, 4, 
+1  -  First possible direction
+128	64	2	4	
+4	8	4	2	
+2	16	8	0	
+2	0	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 64, 8, 4, 2, 
+1  -  First possible direction
+128	64	2	4	
+4	8	4	2	
+4	16	8	2	
+0	0	0	0	
+Possible directions are L:0, U:1 R:0, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:0, D:1
+Chain: 128, 64, 8, 4, 2, 2, 
+1  -  Moving in chain
+128	64	2	4	
+8	8	4	4	
+0	16	8	0	
+0	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 8, 
+1  -  Moving to preserve chain
+128	64	2	8	
+8	8	4	0	
+0	16	8	4	
+0	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 8, 
+1  -  Moving to preserve chain
+128	64	2	8	
+8	8	4	4	
+2	16	8	0	
+0	2	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 128, 64, 8, 
+0  -  First possible direction
+128	64	2	8	
+16	8	0	0	
+2	16	8	0	
+2	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 8, 
+0  -  First possible direction
+128	64	2	8	
+16	8	0	0	
+2	16	8	0	
+4	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 64, 8, 
+1  -  First possible direction
+128	64	2	8	
+16	8	8	0	
+2	16	2	0	
+4	2	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 128, 64, 8, 8, 
+0  -  Moving in chain
+128	64	2	8	
+16	16	2	0	
+2	16	2	0	
+4	2	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 16, 16, 
+1  -  Moving in chain
+128	64	4	8	
+16	32	2	0	
+2	2	0	2	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 32, 2, 
+0  -  First possible direction
+128	64	4	8	
+16	32	2	0	
+4	2	2	0	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 32, 2, 2, 
+1  -  Moving in chain
+128	64	4	8	
+16	32	4	0	
+8	2	2	0	
+0	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 32, 4, 
+0  -  Moving to preserve chain
+128	64	4	8	
+16	32	4	0	
+8	4	0	0	
+0	4	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 32, 4, 
+0  -  Moving to preserve chain
+128	64	4	8	
+16	32	4	0	
+8	4	0	0	
+4	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 32, 4, 
+0  -  Moving to preserve chain
+128	64	4	8	
+16	32	4	2	
+8	4	0	0	
+4	2	0	0	
+Possible directions are L:0, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 64, 32, 16, 8, 4, 2, 
+1  -  First possible direction
+128	64	8	8	
+16	32	2	2	
+8	4	0	0	
+4	2	0	0	
+Possible directions are L:1, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:0 R:1, D:1
+Chain: 128, 64, 32, 4, 2, 
+0  -  First possible direction
+128	64	16	2	
+16	32	4	0	
+8	4	0	0	
+4	2	0	0	
+Possible directions are L:0, U:0 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:0 R:1, D:1
+Chain: 128, 64, 32, 4, 
+2  -  First possible direction
+128	64	16	2	
+0	16	32	4	
+0	0	8	4	
+2	0	4	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 16, 2, 
+0  -  First possible direction
+128	64	16	2	
+16	32	4	0	
+8	4	0	0	
+2	4	2	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 32, 4, 2, 
+0  -  First possible direction
+128	64	16	2	
+16	32	4	0	
+8	4	0	2	
+2	4	4	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 32, 4, 4, 
+1  -  Moving in chain
+128	64	16	4	
+16	32	8	0	
+8	8	0	0	
+2	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 32, 8, 
+0  -  First possible direction
+128	64	16	4	
+16	32	8	0	
+16	0	0	2	
+4	0	0	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:0, U:1 R:1, D:1
+Chain: 128, 64, 32, 8, 
+1  -  Moving to preserve chain
+128	64	16	4	
+32	32	8	2	
+4	0	0	0	
+0	0	2	0	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 32, 32, 
+2  -  Moving in chain
+128	64	16	4	
+0	64	8	2	
+0	2	0	4	
+0	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 64, 64, 
+1  -  Moving in chain
+128	128	16	4	
+0	2	8	2	
+0	2	0	4	
+0	0	0	2	
+Possible directions are L:1, U:1 R:1, D:1
+Corner is at (0, 0)
+Safe directions are L:1, U:1 R:1, D:1
+Chain: 128, 128, 
+0  -  Moving in chain
